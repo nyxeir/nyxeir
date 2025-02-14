@@ -1,5 +1,5 @@
 ![Image](https://github.com/user-attachments/assets/e7312add-19b1-46cc-bde8-f95a24b1dced)
-“𝓘 𝓸𝓷𝓵𝔂 𝔀𝓪𝓷𝓽 𝓸𝓷𝓮 𝓹𝓮𝓻𝓼𝓸𝓷, 𝓪𝓷𝓭 𝓽𝓱𝓪𝓽'𝓼 𝔂𝓸𝓾.”
+      “𝓘 𝓸𝓷𝓵𝔂 𝔀𝓪𝓷𝓽 𝓸𝓷𝓮 𝓹𝓮𝓻𝓼𝓸𝓷, 𝓪𝓷𝓭 𝓽𝓱𝓪𝓽'𝓼 𝔂𝓸𝓾.”
 <!--
 **nyxeir/nyxeir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
